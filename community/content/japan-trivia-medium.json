@@ -312,5 +312,18 @@
     "Kissa"
   ],
   "correctIndex": 1
-  }
+  },
+{
+"question": "What are the main islands of Japan?",
+  "difficulty": "medium",
+  "answers": [
+   "Honshu",
+   "Hokkaido" ,
+   "Kyushu" ,
+   "Shikoku "
+   
+  ],
+  "correctIndex": 0
+
+}
 ]
